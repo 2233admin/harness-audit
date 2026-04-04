@@ -1,0 +1,10 @@
+{
+  "name": "harness-audit",
+  "version": "1.0.0",
+  "description": "Audit your Claude Code harness for dead weight. Annotate hooks, MCPs, and skills with their origin purpose, then flag what the model has outgrown.",
+  "author": "2233admin",
+  "repository": "https://github.com/2233admin/harness-audit",
+  "homepage": "https://github.com/2233admin/harness-audit",
+  "license": "MIT",
+  "keywords": ["harness", "hooks", "dead-weight", "audit", "claude-code", "agent"]
+}
